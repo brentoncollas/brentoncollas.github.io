@@ -1,1 +1,22 @@
-theme: jekyll-theme-tactile
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: false
+
+# Setup
+title:               Brentons Test  
+tagline:             'much ado about nothing'
+description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 http://lanyon.getpoole.com
+baseurl:             'https://github.com/brentoncollas/brentoncollas.github.io'
+paginate:            5
+
+# About/contact
+author:
+  name:              Brenton Collas
+  url:               https://twitter.com/BrentonCollas
+  email:             brenton.collas@gmail.com
+
+# Custom vars
+version:             1.0.0
